@@ -1,2 +1,2 @@
 # react_01
-Primeira aula de React 
+Aula de intridução ao React. FS-49 Digital Collage
